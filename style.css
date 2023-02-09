@@ -1,0 +1,49 @@
+.Cbody {
+    height: fit-content;
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: auto auto;
+
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+.btns {
+    height: 300px;
+    width: auto;
+    display: grid;
+    row-gap: 5px;
+    column-gap: 5px;
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0px 10px;
+}
+
+.button {
+    border: 1px solid grey;
+    font-size: 22px;
+    background-color: rgb(182, 174, 174);
+
+}
+
+.area {
+    height: 100px;
+    width: calc(100% - 30px);
+    margin: 10px 10px;
+    font-size: x-large;
+
+}
+
+.operators {
+    background-color: orange;
+}
+
+body {
+    background-color: rgb(49, 47, 47);
+}
