@@ -3,4 +3,4 @@
 This web application is developed using pure HTML,CSS,and JS. This calculator performs just basic calculation and also can memorize a single number simply saying M+ and M- value
 </p>
 <h3>Below is the visual of Calculator</h3>
-<img src="snipper.jpg"/>
+<img src="snippet.jpg"/>
